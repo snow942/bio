@@ -1,3 +1,4 @@
 My first name is Ryan
 My last name is Snow
 This is me learning to use Git
+I think it is going well
